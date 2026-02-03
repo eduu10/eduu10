@@ -97,7 +97,56 @@
 
                               ### **Languages**
                               ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-                              ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+                              
+                              ## 🌐 Complete Portfolio - All Websites Developed by Weebsites
+
+                              > 💼 **20+ Professional websites** developed and hosted - All signed with "Weebs Sites"
+                              >
+                              > ### 🏢 **Real Estate & Construction**
+                              > - 🏗️ [JM Empreendimentos](https://junqueiramattar.com.br/) - Real estate development company
+                              > - - 🏘️ [AG Ferramenta](https://agferramenta.com.br/) - Construction tools and equipment
+                              >   -
+                              >   - ### 🏥 **Healthcare & Wellness**
+                              >   - - 🩺 [Clínica Vittara](https://clinicavittara.com.br/) - Medical clinic
+                              >     - - 💊 [Dr. Mateus Marra](https://drmateusmarra.com.br/) - Medical professional
+                              >       - - 🧘 [Artlaser MG](https://artlasermg.com.br/) - Laser aesthetic treatments
+                              >         - - 👶 [Casa de Bolos Conchego](https://casadebolosconchego.com.br/) - Cake house
+                              >           -
+                              >           - ### 🏠 **Home Services**
+                              >           - - 🔧 [Argua](https://argua.com.br/) - Home services
+                              >             - - 🎨 [Areal Jacaré](https://arealjacare.com.br/) - Home improvement
+                              >               -
+                              >               - ### ⚖️ **Professional Services**
+                              >               - - 📚 [Cast Iron](https://castiron.com.br/) - Professional services
+                              >                 - - 🏛️ [AS Tocupacional](https://astocupacional.com.br/) - Occupational health
+                              >                   -
+                              >                   - ### 🛍️ **E-commerce & Retail**
+                              >                   - - 👶 [Teteus Kids](https://www.teteuskids.com.br/) - Children's clothing store (WooCommerce)
+                              >                     - - 🐝 [Marapis](https://marapis.com.br/) - Beekeeping equipment (Next.js)
+                              >                       - - 🛒 [Gringa Loja](https://gringaloja.com.br/) - E-commerce platform (Laravel)
+                              >                         - - 🏍️ [Sinal Verde Center Motos](https://sinalverdecentermotos.com.br/) - Motorcycle dealership (CodeIgniter)
+                              >                           - - 💡 [Luminussaúde Center](https://luminussaudecenter.com.br/) - Health products
+                              >                             - - 💊 [Mágico Bill](https://magicobill.com.br/) - Retail store
+                              >                               - - 🍬 [MSI Moveiss](https://msimoveiss.com.br/) - Furniture store
+                              >                                 -
+                              >                                 - ### 🏛️ **Institutional & Organizations**
+                              >                                 - - 📊 [Contai](https://contai.com.br/) - Accounting services
+                              >                                   - - 📈 [Grupo Valifer](https://grupovalifer.com.br/) - Business group
+                              >                                     - - 🏪 [Horta à Porta](https://hortaaporta.com.br/) - Urban farming
+                              >                                       - - 📱 [Implamig](https://implamig.com.br/) - Implant services
+                              >                                         - - 🎮 [Loja Power X](https://lojapowerx.com.br/) - Gaming store
+                              >                                           - - 💻 [Dr. Julio Fran](https://drjuliofran.com.br/) - Professional website
+                              >                                             -
+                              >                                             - ### 📊 **Total Portfolio Stats:**
+                              >                                             - - ✅ **20+ websites** developed and maintained
+                              >                                               - - ✅ **Multiple technologies**: Laravel, Next.js, CodeIgniter, WordPress, WooCommerce
+                              >                                                 - - ✅ **Diverse sectors**: Healthcare, E-commerce, Real Estate, Professional Services
+                              >                                                   - - ✅ **All hosted** on professional infrastructure
+                              >                                                     - - ✅ **Signed** with "Weebs Sites" branding
+                              >                                                       -
+                              >                                                       - ---
+                              >                                                       - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
                               ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
                               ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
                               ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
