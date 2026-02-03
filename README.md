@@ -8,11 +8,13 @@
 ---
 
 ## ⭐ About Me
+[![Instagram](https://img.shields.io/badge/Instagram-@weebsites-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weebsites/)
 
 - 🏢 **Founder & CEO** at [Weebsites](https://weebsites.com.br/) - Digital Agency specializing in web development
 - - 💻 Building powerful web solutions with **Laravel**, **Next.js**, and **CodeIgniter**
   - - 🛒 E-commerce expert - Developed multiple successful online stores
     - - 🌐 Passionate about creating scalable and modern web applications
+      - - 📱 **Community:** 650+ followers on Instagram [@weebsites](https://www.instagram.com/weebsites/)
       - - 📫 **Reach me:** [Contact through Weebsites](https://weebsites.com.br/)
        
         - ---
@@ -20,6 +22,46 @@
         ## 🎯 Featured Projects
 
         ### 🏢 **Weebsites - Digital Agency**
+     
+        ## 💻 GitHub Repositories
+     
+        ### 🎮 **Formiguerra**
+        Classic ant game - storage and synced with itch.io
+        - 📦 [Repository](https://github.com/eduu10/formiguerra)
+        - - 🎯 Technologies: itch.io integration
+         
+          - ### 🐜 **Formigolas**
+          - Worms-style ant game
+          - - 📦 [Repository](https://github.com/eduu10/formigolas)
+            - - 🎯 Technologies: GDScript
+             
+              - ### 🐉 **Dragão PvP Server**
+              - PvP server for Dragão de Lorencia game
+              - - 📦 [Repository](https://github.com/eduu10/dragao-pvp-server)
+                - - 🎯 Technologies: JavaScript, Game Server
+                 
+                  - ### 🧬 **Life Aligner Demo**
+                  - Interactive demo project
+                  - - 📦 [Repository](https://github.com/eduu10/life-aligner-demo)
+                    - - 🎯 Technologies: TypeScript
+                     
+                      - ### 📊 **ACINOL Site Nexus**
+                      - Association website management system
+                      - - 📦 [Repository](https://github.com/eduu10/acinol-site-nexus)
+                        - - 🎯 Technologies: TypeScript, Next.js
+                         
+                          - ### 🎯 **Gamer Teste**
+                          - Gaming platform test project
+                          - - 📦 [Repository](https://github.com/eduu10/gamerteste)
+                            - - 🎯 Technologies: Web Development
+                             
+                              - ### 📈 **SEOAI Insight Analyzer**
+                              - SEO analysis tool with AI
+                              - - 📦 [Repository](https://github.com/eduu10/seoai-insight-analyzer)
+                                - - 🎯 Technologies: TypeScript, AI/ML
+                                 
+                                  - ---
+                                  
         My own digital agency focused on web development and custom solutions
         - 🔗 [weebsites.com.br](https://weebsites.com.br/)
         - - 🛠️ Custom web development, SEO, and digital marketing
